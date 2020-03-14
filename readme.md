@@ -1,15 +1,10 @@
-Infinite Run!
+InfiniteJourney!
 -----
-> Infinte run is n canvas game, created to study and practice how a game works, how is they life cycle and the logic behind the scenes. This game basically use Layers of "canvas" from html5, who're controlled fully by javascript
+> InfiniteJourney is a canvas game designed to help users learn about game mechanics, lifecycles, and the underlying logic, all while utilizing HTML5's layered canvas system, fully controlled by JavaScript. 🎮🖥️✨
 
 ---
 
 [![game screenshot](https://i.imgur.com/XrUlZwg.png "game screenshot")](https://i.imgur.com/XrUlZwg.png "game screenshot")
-
----
-
-#### • Play the game!
-To play the game, access: [http://danilloliveira.com.br](http://danilloliveira.com.br "http://danilloliveira.com.br")
 
 ---
 
